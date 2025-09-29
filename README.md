@@ -23,7 +23,7 @@ A hands-on proof-of-concept comparing **static Pydantic**, **dynamic (YAML/JSON)
 
 ## 🚀 How To Run
 
-git clone https://github.com/yourusername/repo-name.git
+git clone https://github.com/bulchandani02/pydantic-schema-flexibility-poc.git
 cd repo-name
 pip install -r requirements.txt
 uvicorn app.main:app --reload

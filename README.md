@@ -55,9 +55,7 @@ Set up `.env` with your Google Gemini API key for LLM extraction.
 | Dynamic   | No redeploy, flexible      | Weak docs, runtime risk| Fast-changing |
 | Registry  | Adaptive, client-friendly  | Extra setup            | Ecosystem scale|
 
-## 📸 Demo Screenshot
 
-*Attach screenshot here*
 
 ---
 

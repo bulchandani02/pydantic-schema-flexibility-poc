@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+pyyaml
+streamlit
+google-generativeai
+langsmith
+httpx
+pytest
+pytest-asyncio
+python-dotenv
+requests 
+PyPDF2
+

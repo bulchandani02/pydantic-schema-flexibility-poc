@@ -1,0 +1,10 @@
+{
+    "name": "DocumentRequest",
+    "fields": {
+        "document_id": { "type": "str", "required": true },
+        "title": { "type": "str", "required": true },
+        "content": { "type": "str", "required": true },
+        "author": { "type": "str", "required": false },
+        "created_at": { "type": "str", "required": false }
+    }
+}
